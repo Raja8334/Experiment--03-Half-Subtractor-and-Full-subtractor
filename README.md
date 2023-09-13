@@ -61,6 +61,7 @@ and(s,a,b);
 and(t,q,cn);
 or(borrow,s,t);
 endmodule
+```
 
 
 ## Output:
